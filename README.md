@@ -1,6 +1,10 @@
 # polizoom
 Generate Zoom Meeting 
 
+# Install
+Clone repo, terus composer install, lek ga onok composer installen sek composer e
+
+# Config
 1. Buat dulu akun zoom
 2. Register app di zoom marketplace
 3. Setting client id client secret redirect url
