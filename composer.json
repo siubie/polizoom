@@ -1,0 +1,12 @@
+{
+    "name": "hp/zoom",
+    "authors": [
+        {
+            "name": "siubie",
+            "email": "putraprima@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
